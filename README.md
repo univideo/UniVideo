@@ -105,7 +105,7 @@ python univideo_inference.py --task i+v2v_edit    --config configs/univideo_qwen
 
 ## Acknowledgement
 
-- [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo): the base video generation model used in this work. Thanks to the authors for their excellent contribution.
+- [HunyuanVideo](https://github.com/univideo/HunyuanVideo): the base video generation model used in this work. Thanks to the authors for their excellent contribution.
 - [Qwen2.5-VL](https://github.com/QwenLM): the base vlm model used in this work. Thanks to the authors for their excellent contribution.
 - [MetaQueries](https://xichenpan.com/metaquery/): we adopt their query implementation. Thanks to the authors for their excellent contribution.
 
